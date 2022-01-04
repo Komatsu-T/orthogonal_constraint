@@ -11,7 +11,7 @@ Google ColaboratoryのGPU環境で学習を実行
 
 ## GradCAM.ipynb
 Grad-CAMを実行するプログラム  
-ローカル環境(CPU)での実行でもOK  
+ローカル環境(CPU)で実行  
 
 ## image
 Grad-CAMでの可視化に使用したコアラの画像

@@ -10,7 +10,7 @@ Orthogonal Sphere Regularizationを行うモデルの学習に使用したプロ
 Google ColaboratoryのGPU環境で学習を実行  
 
 ## GradCAM.ipynb
-Grad-CAMを実行するプログラム
+Grad-CAMを実行するプログラム  
 ローカル環境(CPU)での実行でもOK  
 
 ## image

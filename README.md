@@ -1,5 +1,5 @@
 以下の記事で使用したプログラム・画像ファイル  
-https://qiita.com/drafts  
+https://qiita.com/tabintone/items/8f5593bf1083a55c4b72
 
 ## ResNet_baseline_1.ipynb  
 ResNet18（ベースラインモデル）の学習に使用したプログラム  

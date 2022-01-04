@@ -5,7 +5,15 @@ https://qiita.com/drafts
 ResNet18（ベースラインモデル）の学習に使用したプログラム  
 Google ColaboratoryのGPU環境で学習を実行　　
 
+## ResNet_orthgonal_constraint.ipynb
+Orthogonal Sphere Regularizationを行うモデルの学習に使用したプログラム  
+Google ColaboratoryのGPU環境で学習を実行  
 
+## GradCAM.ipynb
+Grad-CAMを実行するプログラム
+ローカル環境(CPU)での実行でもOK  
 
+## image
+Grad-CAMでの可視化に使用したコアラの画像
 
 
